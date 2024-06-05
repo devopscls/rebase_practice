@@ -2,3 +2,4 @@ Hi all
 Welcome to DevOps sessions
 Making new changes
 Testing modify and untracked
+Rebase is just like merge unable to find difference
