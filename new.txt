@@ -1,2 +1,3 @@
 Hi all
 Welcome to DevOps sessions
+Making new changes
